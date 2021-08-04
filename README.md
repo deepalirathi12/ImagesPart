@@ -1,1 +1,2 @@
-# ImagesPart
+# synchronousBallMovement
+Ball moving synchronously
